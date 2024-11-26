@@ -11,6 +11,8 @@ combustivelApp é um aplicativo de gestão de um posto de combustivel desenvolvi
 # Abastecimentos
 - **Adicionar abastecimento:** O usuário pode cadastrar um novo abastecimento inserindo quantidade, quilometragem e data.
 - **Listar abastecimento:** Todos os abastecimento cadastrados são exibidos em uma lista interativa, permitindo fácil visualização e gerenciamento.
+# Perfil
+- **Editar usuario:** O usuário pode atualizar as informações pessoais, como nome.
 # Menu
 - **Home**: rota para a tela principal.
 - **Meus Veículos**: rota para a tela de listagem de veiculos.
